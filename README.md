@@ -1,4 +1,4 @@
-## Greetings.
+**Greetings.**
 
 I'm David, a.k.a Cazzalles, and I'm a Brazilian software engineer. 
 
