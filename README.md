@@ -1,8 +1,12 @@
 **Greetings.**
 
 I'm David, a.k.a Cazzalles, and I'm a Brazilian software engineer. 
+| Working with **NestJS Backend Development** at **Pináculo Digital**
 
-- 💻 I’m currently working with **NestJS Backend Development** at **Pináculo Digital**
-- 🔭 I’m currently learning Java Spring Boot
-- 📫 How to reach me: cazzalles@gmail.com
+### Here's my stack:
+- 💎 Solidity
+- ⚙️ Rust
+- ♨️ Java 
+- 🟩 Node.js (TypeScript)
 
+Feel free to contact me. 
