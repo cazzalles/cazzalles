@@ -1,6 +1,6 @@
 #### **Greetings.**
 
-I'm David, a.k.a Cazzalles, and I'm a Brazilian software engineer. 
+I'm Davi, a.k.a Cazzalles, and I'm a Brazilian software engineer. 
 
 ##### Here's my stack:
 - ⚙️ Rust
