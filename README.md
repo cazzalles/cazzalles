@@ -3,6 +3,7 @@
 I'm Davi T. Ferreira, Brazilian software engineer.  
 
 ![image](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="" style="width:10px" />
 
 ##### Here's my stack:
 - 🟩 Node.js (TypeScript)
