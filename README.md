@@ -15,7 +15,7 @@ I'm Davi T. Ferreira, Brazilian software engineer.
 - ♨️ Java 
 - 💎 Solidity
 
-[Website] (https://dvtferreira.vercel.app/)
+https://dvtferreira.vercel.app/
 
 Feel free to contact me. 
 
